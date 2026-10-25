@@ -1,29 +1,28 @@
 [
-    {
-    id: 1,
-    company: "HackerRank",
-    initials: "HR",
-    role: "Intern",
-    location: "Bengaluru",
-    state: "Karnataka",
-    category: "Software & IT",
-    type: "Internship",
-    experience: "Fresher",
-    salary: "₹25k - ₹30k / Month",
-    posted: "25 Oct 2026",
-    description:
-      "HackerRank Off-Campus Hiring Drive for freshers. This internship opportunity is open to candidates with any Bachelor's or Master's degree. Check the official job posting for eligibility criteria and application details.",
-    responsibilities: [
+  {
+    "id": 1,
+    "company": "HackerRank",
+    "initials": "HR",
+    "role": "Intern",
+    "location": "Bengaluru",
+    "state": "Karnataka",
+    "category": "Software & IT",
+    "type": "Internship",
+    "experience": "Fresher",
+    "salary": "₹25k - ₹30k / Month",
+    "posted": "25 Oct 2026",
+    "description": "HackerRank Off-Campus Hiring Drive for freshers. This internship opportunity is open to candidates with any Bachelor's or Master's degree. Check the official job posting for eligibility criteria and application details.",
+    "responsibilities": [
       "Work on assigned tasks and projects as part of the internship.",
       "Collaborate with team members to solve problems.",
-      "Learn and apply relevant technical skills.",
+      "Learn and apply relevant technical skills."
     ],
-    qualifications: [
+    "qualifications": [
       "Any Bachelor's or Master's degree.",
       "Experience: Fresher.",
-      "Review the official posting for complete eligibility requirements.",
+      "Review the official posting for complete eligibility requirements."
     ],
-    link: "https://job-boards.greenhouse.io/hackerrank/jobs/8229735",
+    "link": "https://job-boards.greenhouse.io/hackerrank/jobs/8229735"
   },
   {
     "id": 2,
