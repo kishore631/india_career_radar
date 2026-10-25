@@ -1273,3 +1273,35 @@ button {
   font-size: 10px;
   color: #66738b;
 }
+
+/* India Career Radar logo on every page */
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+}
+
+.brand-logo {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  flex-shrink: 0;
+}
+
+.brand-copy {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.3;
+}
+
+.brand-copy strong {
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.brand-copy small {
+  font-size: 11px;
+}
