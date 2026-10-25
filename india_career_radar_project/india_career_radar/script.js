@@ -28,31 +28,32 @@ const fallbackJobs = [
     link: "https://job-boards.greenhouse.io/hackerrank/jobs/8229735"
   },
   {
-    id: 2,
-    company: "TCS",
-    initials: "TCS",
-    role: "Assistant System Engineer (Entry Level)",
-    location: "Pan India",
-    state: "India",
-    category: "Software & IT",
-    type: "Full-time",
-    experience: "Fresher",
-    salary: "As listed by employer",
-    posted: "24 Oct 2026",
-    description:
-      "An example entry-level IT opportunity for graduates interested in software engineering, technology services, and enterprise solutions.",
-    responsibilities: [
-      "Learn project tools, coding standards, and delivery processes.",
-      "Collaborate with team members to investigate technical issues.",
-      "Contribute to testing, documentation, or development tasks."
-    ],
-    qualifications: [
-      "Relevant graduation and eligibility as stated in the official drive.",
-      "Logical thinking and willingness to learn.",
-      "Review the employer's official notice for current criteria."
-    ],
-    link: "https://www.tcs.com/careers"
-  },
+  id: 2,
+  company: "HCLTech",
+  initials: "HCL",
+  role: "Analyst - Gen AI Intern",
+  location: "Noida",
+  state: "Uttar Pradesh",
+  category: "Data & AI",
+  type: "Internship",
+  experience: "Fresher / 0-3 years",
+  salary: "₹4–8 LPA",
+  posted: "25 Oct 2026",
+  description:
+    "HCLTech hiring for Analyst – Gen AI Intern / Analyst roles. The supplied listing mentions Bachelor's or Master's degree eligibility and opportunities across Noida, Hyderabad, Chennai, Bengaluru, and Pune. Verify the exact role and eligibility on the official careers page.",
+  responsibilities: [
+    "Support assigned Generative AI and analyst-related tasks.",
+    "Collaborate with team members on project activities.",
+    "Learn relevant tools, processes, and technologies.",
+    "Follow company quality and security guidelines."
+  ],
+  qualifications: [
+    "Any Bachelor's or Master's degree, according to the supplied listing.",
+    "Freshers and candidates with 0-3 years of experience, subject to the role requirements.",
+    "Check the official posting for complete eligibility criteria."
+  ],
+  link: "https://careers.hcltech.com/job/Analyst-%28Support-%26-Operations%29/166721-en_US/"
+},
   {
     id: 3,
     company: "Infosys",
