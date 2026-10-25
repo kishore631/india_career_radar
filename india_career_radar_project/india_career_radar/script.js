@@ -1,31 +1,31 @@
 /* India Career Radar — client-side demo functionality */
 const fallbackJobs = [
   {
-    id: 1,
-    company: "Amazon",
-    initials: "a",
-    role: "Customer Service Associate",
-    location: "Noida",
-    state: "Uttar Pradesh",
-    category: "Customer Support",
-    type: "Full-time",
-    experience: "Fresher",
-    salary: "As listed by employer",
-    posted: "25 Oct 2026",
-    description:
-      "Support customers by answering questions, helping resolve order-related issues, and delivering a positive customer experience.",
-    responsibilities: [
-      "Respond to customer queries through supported channels.",
-      "Understand customer concerns and provide clear solutions.",
-      "Follow quality, privacy, and process guidelines.",
-    ],
-    qualifications: [
-      "Good communication and problem-solving skills.",
-      "Comfortable using computers and learning new tools.",
-      "Check the official listing for exact eligibility and shift requirements.",
-    ],
-    link: "https://www.amazon.jobs/",
-  },
+  id: 1,
+  company: "HackerRank",
+  initials: "HR",
+  role: "Intern",
+  location: "Bengaluru",
+  state: "Karnataka",
+  category: "Software & IT",
+  type: "Internship",
+  experience: "Fresher",
+  salary: "₹25k - ₹30k / Month",
+  posted: "25 Oct 2026",
+  description:
+    "HackerRank Off-Campus Hiring Drive for freshers. This internship opportunity is open to candidates with any Bachelor's or Master's degree. Check the official job posting for eligibility criteria and application details.",
+  responsibilities: [
+    "Work on assigned tasks and projects as part of the internship.",
+    "Collaborate with team members to solve problems.",
+    "Learn and apply relevant technical skills.",
+  ],
+  qualifications: [
+    "Any Bachelor's or Master's degree.",
+    "Experience: Fresher.",
+    "Review the official posting for complete eligibility requirements.",
+  ],
+  link: "https://job-boards.greenhouse.io/hackerrank/jobs/8229735",
+},
   {
     id: 2,
     company: "TCS",
