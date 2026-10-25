@@ -55,265 +55,161 @@ const fallbackJobs = [
   link: "https://careers.hcltech.com/job/Analyst-%28Support-%26-Operations%29/166721-en_US/"
 },
   {
-    id: 3,
-    company: "Infosys",
-    initials: "IN",
-    role: "Systems Engineer",
-    location: "Bengaluru",
-    state: "Karnataka",
-    category: "Software & IT",
-    type: "Full-time",
-    experience: "Fresher",
-    salary: "As listed by employer",
-    posted: "23 Oct 2026",
-    description:
-      "Sample fresher role for candidates interested in software delivery, application support, and enterprise technology.",
-    responsibilities: [
-      "Work with project teams on assigned technology tasks.",
-      "Assist with development, testing, and troubleshooting.",
-      "Document work and communicate progress clearly."
-    ],
-    qualifications: [
-      "Degree and academic criteria as per the live job notice.",
-      "Basic programming or technical knowledge where required.",
-      "Verify the current vacancy and application deadline."
-    ],
-    link: "https://www.infosys.com/careers/"
-  },
-  {
-    id: 4,
-    company: "Wipro",
-    initials: "W",
-    role: "Project Engineer",
-    location: "Hyderabad",
-    state: "Telangana",
-    category: "Software & IT",
-    type: "Full-time",
-    experience: "Fresher",
-    salary: "As listed by employer",
-    posted: "22 Oct 2026",
-    description:
-      "Illustrative entry-level engineering opportunity for graduates starting a career in IT services and project delivery.",
-    responsibilities: [
-      "Assist teams with project tasks and technical documentation.",
-      "Learn client processes and relevant tools.",
-      "Work with colleagues to deliver assigned outcomes."
-    ],
-    qualifications: [
-      "Meet the role-specific degree and eligibility criteria.",
-      "Strong learning mindset and communication skills.",
-      "Confirm the official listing for location and selection steps."
-    ],
-    link: "https://careers.wipro.com/"
-  },
-  {
-    id: 5,
-    company: "Microsoft",
-    initials: "M",
-    role: "Software Engineering Intern",
-    location: "Bengaluru",
-    state: "Karnataka",
-    category: "Internship",
-    type: "Internship",
-    experience: "Student / Fresher",
-    salary: "As listed by employer",
-    posted: "21 Oct 2026",
-    description:
-      "Example internship listing for students who want practical software engineering experience. Availability varies by team and season.",
-    responsibilities: [
-      "Build or improve software with guidance from a mentor.",
-      "Write readable code and participate in code reviews.",
-      "Collaborate with engineers to test and debug features."
-    ],
-    qualifications: [
-      "Currently enrolled in a relevant degree, where required.",
-      "Programming fundamentals and problem-solving ability.",
-      "Check official internship eligibility and dates."
-    ],
-    link: "https://careers.microsoft.com/"
-  },
-  {
-    id: 6,
-    company: "Accenture",
-    initials: "A",
-    role: "Application Development Associate",
-    location: "Pune",
-    state: "Maharashtra",
-    category: "Software & IT",
-    type: "Full-time",
-    experience: "Entry level",
-    salary: "As listed by employer",
-    posted: "20 Oct 2026",
-    description:
-      "Sample application development role covering software delivery, testing, maintenance, and collaboration with project teams.",
-    responsibilities: [
-      "Support application development and maintenance activities.",
-      "Help investigate defects and document fixes.",
-      "Work with teammates to deliver reliable solutions."
-    ],
-    qualifications: [
-      "Meet the exact degree and graduation-year criteria in the live listing.",
-      "Programming and analytical skills are helpful.",
-      "Review the official job page before applying."
-    ],
-    link: "https://www.accenture.com/in-en/careers"
-  },
-  {
-    id: 7,
-    company: "Deloitte",
-    initials: "D",
-    role: "Analyst — Data & Analytics",
-    location: "Hyderabad",
-    state: "Telangana",
-    category: "Data & AI",
-    type: "Full-time",
-    experience: "Entry level",
-    salary: "As listed by employer",
-    posted: "19 Oct 2026",
-    description:
-      "Illustrative analytics opportunity for candidates interested in data preparation, reporting, and turning information into useful insights.",
-    responsibilities: [
-      "Assist with data preparation and analysis.",
-      "Create reports and communicate findings.",
-      "Collaborate with project teams and document processes."
-    ],
-    qualifications: [
-      "Analytical thinking and attention to detail.",
-      "SQL, spreadsheets, or Python may be useful depending on the role.",
-      "Confirm requirements on the official careers page."
-    ],
-    link: "https://www.deloitte.com/global/en/careers.html"
-  },
-  {
-    id: 8,
-    company: "Flipkart",
-    initials: "F",
-    role: "Operations Executive",
-    location: "Bengaluru",
-    state: "Karnataka",
-    category: "Sales & Marketing",
-    type: "Full-time",
-    experience: "Entry level",
-    salary: "As listed by employer",
-    posted: "18 Oct 2026",
-    description:
-      "Example operations role focused on coordination, reporting, process execution, and customer-oriented operations.",
-    responsibilities: [
-      "Coordinate daily operational activities.",
-      "Track metrics and maintain accurate records.",
-      "Communicate issues and help improve processes."
-    ],
-    qualifications: [
-      "Communication and organization skills.",
-      "Comfort with spreadsheets and operational tools.",
-      "Check official requirements and shift details."
-    ],
-    link: "https://www.flipkartcareers.com/"
-  },
-  {
-    id: 9,
-    company: "Zoho",
-    initials: "Z",
-    role: "Software Developer",
-    location: "Chennai",
-    state: "Tamil Nadu",
-    category: "Software & IT",
-    type: "Full-time",
-    experience: "Fresher / Entry level",
-    salary: "As listed by employer",
-    posted: "17 Oct 2026",
-    description:
-      "Sample developer role for candidates interested in building software products and strengthening programming fundamentals.",
-    responsibilities: [
-      "Develop and maintain application features.",
-      "Write tests and debug software issues.",
-      "Work with the team to improve product quality."
-    ],
-    qualifications: [
-      "Programming fundamentals and problem-solving skills.",
-      "Degree and selection criteria depend on the live role.",
-      "Apply only through official hiring channels."
-    ],
-    link: "https://www.zoho.com/careers/"
-  },
-  {
-    id: 10,
-    company: "DataMinds",
-    initials: "DM",
-    role: "Data Analyst Intern",
-    location: "Remote",
-    state: "India",
-    category: "Data & AI",
-    type: "Internship",
-    experience: "Student / Fresher",
-    salary: "As listed by employer",
-    posted: "16 Oct 2026",
-    description:
-      "Illustrative remote internship example for learning data cleaning, spreadsheet analysis, SQL, and dashboard basics.",
-    responsibilities: [
-      "Clean and organize datasets.",
-      "Support reports and dashboards.",
-      "Summarize trends for project stakeholders."
-    ],
-    qualifications: [
-      "Basic Excel or spreadsheet skills.",
-      "SQL or Python knowledge is helpful.",
-      "This is a fictional sample employer and listing."
-    ],
-    link: ""
-  },
-  {
-    id: 11,
-    company: "HDFC Bank",
-    initials: "H",
-    role: "Customer Relationship Executive",
-    location: "Mumbai",
-    state: "Maharashtra",
-    category: "Finance",
-    type: "Full-time",
-    experience: "Entry level",
-    salary: "As listed by employer",
-    posted: "15 Oct 2026",
-    description:
-      "Example customer relationship role. Actual duties, eligibility, and licensing requirements depend on the specific opening.",
-    responsibilities: [
-      "Help customers understand products and services.",
-      "Maintain records and follow compliance procedures.",
-      "Escalate customer concerns to relevant teams."
-    ],
-    qualifications: [
-      "Customer service and communication skills.",
-      "Review the exact role criteria on the official careers page.",
-      "Never pay a fee to secure a job offer."
-    ],
-    link: "https://www.hdfcbank.com/personal/about-us/careers"
-  },
-  {
-    id: 12,
-    company: "Freshworks",
-    initials: "FW",
-    role: "Technical Support Engineer",
-    location: "Chennai",
-    state: "Tamil Nadu",
-    category: "Customer Support",
-    type: "Full-time",
-    experience: "Entry level",
-    salary: "As listed by employer",
-    posted: "14 Oct 2026",
-    description:
-      "Example technical support role for candidates who enjoy troubleshooting, customer communication, and software products.",
-    responsibilities: [
-      "Investigate product and technical questions.",
-      "Explain solutions clearly to customers.",
-      "Document issues and collaborate with engineering teams."
-    ],
-    qualifications: [
-      "Clear written and spoken communication.",
-      "Basic troubleshooting and analytical skills.",
-      "Confirm requirements and shifts on the official job page."
-    ],
-    link: "https://www.freshworks.com/company/careers/"
-  }
+  id: 3,
+  company: "Accenture",
+  initials: "A",
+  role: "Custom Software Engineering Associate",
+  location: "Bengaluru",
+  state: "Karnataka",
+  category: "Software & IT",
+  type: "Full-time",
+  experience: "Fresher / 0-2 years",
+  salary: "₹3.2–6.6 LPA",
+  posted: "25 Oct 2026",
+  description:
+    "Accenture hiring for Custom Software Engineering Associate. The supplied listing states that any graduate degree may be eligible, with 0-2 years of experience.",
+  responsibilities: [
+    "Support software engineering and application development activities.",
+    "Collaborate with team members on assigned project tasks.",
+    "Assist with testing, troubleshooting, and documentation."
+  ],
+  qualifications: [
+    "Any graduate degree, as stated in the supplied listing.",
+    "Freshers and candidates with 0-2 years of experience.",
+    "Check the official posting for complete eligibility requirements."
+  ],
+  link: "https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-5349571-S1958852_en&title=Custom+Software+Engineer"
+},
+{
+  id: 4,
+  company: "KPMG",
+  initials: "KPMG",
+  role: "Analyst",
+  location: "Gurugram",
+  state: "Haryana",
+  category: "Finance",
+  type: "Full-time",
+  experience: "Fresher / 0-2 years",
+  salary: "Not disclosed",
+  posted: "25 Oct 2026",
+  description:
+    "KPMG analyst opportunity. The supplied listing mentions BA, B.Com, B.Ed, BE, and BCA degrees, batches 2024-2027, and working hours from 11:30 AM to 8:00 PM.",
+  responsibilities: [
+    "Support analyst-related tasks and business processes.",
+    "Prepare and maintain relevant documentation.",
+    "Collaborate with team members to complete assigned work."
+  ],
+  qualifications: [
+    "BA, B.Com, B.Ed, BE, or BCA, according to the supplied listing.",
+    "Experience: 0-2 years.",
+    "Verify graduation-year and other eligibility requirements."
+  ],
+  link: "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30050866/"
+},
+{
+  id: 5,
+  company: "L&T",
+  initials: "L&T",
+  role: "GenAI Trainee",
+  location: "Pan India",
+  state: "India",
+  category: "Data & AI",
+  type: "Traineeship",
+  experience: "0-2 years",
+  salary: "Not disclosed",
+  posted: "25 Oct 2026",
+  description:
+    "L&T GenAI Trainee opportunity. The supplied listing mentions BE, ME, BTech, and MTech qualifications, batches 2024-2027, and locations across India.",
+  responsibilities: [
+    "Learn and support assigned Generative AI project activities.",
+    "Collaborate with technical teams on project tasks.",
+    "Develop relevant technical knowledge and skills."
+  ],
+  qualifications: [
+    "BE, ME, BTech, or MTech, according to the supplied listing.",
+    "Batches 2024, 2025, 2026, and 2027.",
+    "Experience: 0-2 years."
+  ],
+  link: "https://larsentoubrocareers.peoplestrong.com/job/detail/LNT_GT_1820286?Source=Linkedin"
+},
+{
+  id: 6,
+  company: "Razorpay",
+  initials: "R",
+  role: "Data Analyst, Business Finance",
+  location: "Bengaluru",
+  state: "Karnataka",
+  category: "Data & AI",
+  type: "Full-time",
+  experience: "Fresher / 0-2 years",
+  salary: "₹5–9 LPA",
+  posted: "25 Oct 2026",
+  description:
+    "Razorpay hiring listing for Data Analyst, Business Finance. The supplied information mentions a bachelor's degree, batches 2024-2027, and 0-2 years of experience.",
+  responsibilities: [
+    "Support business finance reporting and data analysis.",
+    "Organize data and prepare analytical reports.",
+    "Collaborate with stakeholders on business insights."
+  ],
+  qualifications: [
+    "Bachelor's degree, according to the supplied listing.",
+    "Batches 2024, 2025, 2026, and 2027.",
+    "Experience: 0-2 years."
+  ],
+  link: "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4744129005"
+},
+{
+  id: 7,
+  company: "Infosys",
+  initials: "IN",
+  role: "Systems Engineer",
+  location: "Pan India",
+  state: "India",
+  category: "Software & IT",
+  type: "Full-time",
+  experience: "Fresher",
+  salary: "₹4–21 LPA across listed roles; verify role-specific package",
+  posted: "25 Oct 2026",
+  description:
+    "Infosys Systems Engineer opportunity for eligible graduates. The supplied listing references batches 2024-2027 and multiple locations across India.",
+  responsibilities: [
+    "Assist with software development and testing tasks.",
+    "Collaborate with project teams on technical assignments.",
+    "Document work and help troubleshoot application issues."
+  ],
+  qualifications: [
+    "Graduation eligibility depends on the official hiring notice.",
+    "Batch eligibility may include 2024, 2025, 2026, and 2027.",
+    "Check the official application for deadlines and requirements."
+  ],
+  link: "https://surveys.infosysapps.com/r/a/SEcampusregistration2027batch"
+},
+{
+  id: 8,
+  company: "Infosys",
+  initials: "IN",
+  role: "Specialist Programmer Trainee",
+  location: "Multiple locations",
+  state: "India",
+  category: "Software & IT",
+  type: "Full-time",
+  experience: "Fresher / 0-2 years",
+  salary: "Role-dependent; verify official listing",
+  posted: "25 Oct 2026",
+  description:
+    "Infosys Specialist Programmer Trainee opportunity referenced in the supplied listing. Eligibility, compensation, batches, and location depend on the specific vacancy.",
+  responsibilities: [
+    "Develop and test software solutions.",
+    "Solve programming and technical problems.",
+    "Collaborate with development teams on assigned projects."
+  ],
+  qualifications: [
+    "Meet the degree and technical requirements in the specific listing.",
+    "Experience: 0-2 years, as stated in the supplied information.",
+    "Verify the current vacancy and application details."
+  ],
+  link: "https://www.naukri.com/job-listings-specialist-programmer-trainee-infosys-hyderabad-bengaluru-delhi-ncr-0-to-2-years-151026016759"
+}
 ];
 
 let allJobs = [...fallbackJobs];
