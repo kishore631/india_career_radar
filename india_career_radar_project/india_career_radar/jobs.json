@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "company": "Amazon",
+    "initials": "a",
+    "role": "Customer Service Associate",
+    "location": "Noida",
+    "state": "Uttar Pradesh",
+    "category": "Customer Support",
+    "type": "Full-time",
+    "experience": "Fresher",
+    "salary": "As listed by employer",
+    "posted": "25 Oct 2026",
+    "description": "Sample role description. Verify the live opening and requirements on the employer website.",
+    "responsibilities": [
+      "Respond to customer queries.",
+      "Help resolve issues clearly.",
+      "Follow quality and privacy guidelines."
+    ],
+    "qualifications": [
+      "Good communication skills.",
+      "Comfort using computers.",
+      "Verify exact eligibility on the official listing."
+    ],
+    "link": "https://www.amazon.jobs/"
+  },
+  {
+    "id": 2,
+    "company": "TCS",
+    "initials": "TCS",
+    "role": "Assistant System Engineer (Entry Level)",
+    "location": "Pan India",
+    "state": "India",
+    "category": "Software & IT",
+    "type": "Full-time",
+    "experience": "Fresher",
+    "salary": "As listed by employer",
+    "posted": "24 Oct 2026",
+    "description": "Sample entry-level IT opportunity. Confirm active openings and criteria with TCS.",
+    "responsibilities": [
+      "Support project tasks.",
+      "Learn technical tools and processes.",
+      "Document and communicate progress."
+    ],
+    "qualifications": [
+      "Meet official degree criteria.",
+      "Analytical thinking.",
+      "Check the official notice."
+    ],
+    "link": "https://www.tcs.com/careers"
+  },
+  {
+    "id": 3,
+    "company": "Infosys",
+    "initials": "IN",
+    "role": "Systems Engineer",
+    "location": "Bengaluru",
+    "state": "Karnataka",
+    "category": "Software & IT",
+    "type": "Full-time",
+    "experience": "Fresher",
+    "salary": "As listed by employer",
+    "posted": "23 Oct 2026",
+    "description": "Sample entry-level software and IT services role. Verify the current vacancy on the official site.",
+    "responsibilities": [
+      "Assist with development and testing.",
+      "Investigate technical issues.",
+      "Document work."
+    ],
+    "qualifications": [
+      "Meet role-specific criteria.",
+      "Technical fundamentals.",
+      "Verify live listing."
+    ],
+    "link": "https://www.infosys.com/careers/"
+  },
+  {
+    "id": 4,
+    "company": "Wipro",
+    "initials": "W",
+    "role": "Project Engineer",
+    "location": "Hyderabad",
+    "state": "Telangana",
+    "category": "Software & IT",
+    "type": "Full-time",
+    "experience": "Fresher",
+    "salary": "As listed by employer",
+    "posted": "22 Oct 2026",
+    "description": "Sample entry-level engineering listing. Details are illustrative; check the employer site.",
+    "responsibilities": [
+      "Assist project teams.",
+      "Learn tools and processes.",
+      "Deliver assigned tasks."
+    ],
+    "qualifications": [
+      "Meet current eligibility criteria.",
+      "Communication skills.",
+      "Verify official notice."
+    ],
+    "link": "https://careers.wipro.com/"
+  },
+  {
+    "id": 5,
+    "company": "Microsoft",
+    "initials": "M",
+    "role": "Software Engineering Intern",
+    "location": "Bengaluru",
+    "state": "Karnataka",
+    "category": "Internship",
+    "type": "Internship",
+    "experience": "Student / Fresher",
+    "salary": "As listed by employer",
+    "posted": "21 Oct 2026",
+    "description": "Example internship listing. Openings and eligibility vary by team.",
+    "responsibilities": [
+      "Build software with a mentor.",
+      "Write and test code.",
+      "Collaborate with engineers."
+    ],
+    "qualifications": [
+      "Enrollment criteria may apply.",
+      "Programming fundamentals.",
+      "Check official internship details."
+    ],
+    "link": "https://careers.microsoft.com/"
+  }
+]

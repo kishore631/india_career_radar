@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact | India Career Radar</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container nav-wrap">
+        <a class="brand" href="index.html"
+          ><span class="brand-mark">IC<span>R</span></span
+          ><span class="brand-copy"
+            ><strong>India Career Radar</strong
+            ><small>Jobs • Opportunities • Career Growth</small></span
+          ></a
+        ><button
+          class="menu-toggle"
+          id="menuToggle"
+          aria-label="Toggle navigation"
+        >
+          ☰
+        </button>
+        <nav class="main-nav" id="mainNav">
+          <a href="index.html">Home</a><a href="index.html#jobs">Find Jobs</a
+          ><a href="career-guide.html">Career Guide</a
+          ><a href="salary-guide.html">Salary Guide</a
+          ><a href="about.html">About</a
+          ><a class="nav-cta active" href="contact.html">Contact</a>
+        </nav>
+      </div>
+    </header>
+    <main>
+      <section class="page-hero">
+        <div class="container">
+          <span class="eyebrow">LET'S CONNECT</span>
+          <h1>Contact India Career Radar</h1>
+          <p>
+            Use this sample form layout for questions, corrections, or job
+            listing suggestions.
+          </p>
+        </div>
+      </section>
+      <section class="content-section">
+        <div class="container guide-grid">
+          <div class="content-card">
+            <h2>Send a message</h2>
+            <form id="contactForm" class="contact-form">
+              <div class="form-row">
+                <label
+                  >Your name<input
+                    name="name"
+                    required
+                    placeholder="Enter your name" /></label
+                ><label
+                  >Email address<input
+                    name="email"
+                    type="email"
+                    required
+                    placeholder="you@example.com"
+                /></label>
+              </div>
+              <label
+                >Subject<select name="subject" required>
+                  <option value="">Choose a topic</option>
+                  <option>Job listing correction</option>
+                  <option>Suggest an opportunity</option>
+                  <option>General question</option>
+                  <option>Report suspicious listing</option>
+                </select></label
+              ><label
+                >Message<textarea
+                  name="message"
+                  rows="5"
+                  required
+                  placeholder="How can we help?"
+                ></textarea></label
+              ><button class="btn btn-primary" type="submit">
+                Send message →
+              </button>
+              <p id="contactMessage" class="form-note" aria-live="polite"></p>
+              <p class="form-note">
+                Demo only: messages are not sent or stored. Connect a backend or
+                trusted form service before publishing.
+              </p>
+            </form>
+          </div>
+          <div>
+            <article class="content-card">
+              <h2>Listing a job?</h2>
+              <p>
+                Before adding a vacancy, verify the company, role, application
+                URL, deadline, location, and eligibility. Do not publish
+                unverified personal contact details.
+              </p>
+            </article>
+            <article class="content-card" id="disclaimer">
+              <h2>Disclaimer</h2>
+              <p>
+                India Career Radar is a starter project. It does not guarantee
+                employment, hiring outcomes, or that a sample listing is
+                currently open. Always use official employer websites for
+                applications.
+              </p>
+            </article>
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer class="site-footer">
+      <div class="container footer-bottom">
+        <span>© <span id="currentYear"></span> India Career Radar</span
+        ><a href="index.html">Home</a>
+      </div>
+    </footer>
+  </body>
+</html>
