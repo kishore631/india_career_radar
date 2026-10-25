@@ -25,30 +25,31 @@
     "link": "https://job-boards.greenhouse.io/hackerrank/jobs/8229735"
   },
   {
-    "id": 2,
-    "company": "TCS",
-    "initials": "TCS",
-    "role": "Assistant System Engineer (Entry Level)",
-    "location": "Pan India",
-    "state": "India",
-    "category": "Software & IT",
-    "type": "Full-time",
-    "experience": "Fresher",
-    "salary": "As listed by employer",
-    "posted": "24 Oct 2026",
-    "description": "Sample entry-level IT opportunity. Confirm active openings and criteria with TCS.",
-    "responsibilities": [
-      "Support project tasks.",
-      "Learn technical tools and processes.",
-      "Document and communicate progress."
-    ],
-    "qualifications": [
-      "Meet official degree criteria.",
-      "Analytical thinking.",
-      "Check the official notice."
-    ],
-    "link": "https://www.tcs.com/careers"
-  },
+  "id": 13,
+  "company": "HCLTech",
+  "initials": "HCL",
+  "role": "Analyst - Gen AI Intern",
+  "location": "Noida",
+  "state": "Uttar Pradesh",
+  "category": "Data & AI",
+  "type": "Internship",
+  "experience": "Fresher / 0-3 years",
+  "salary": "₹4–8 LPA",
+  "posted": "25 Oct 2026",
+  "description": "HCLTech hiring for Analyst – Gen AI Intern / Analyst roles. The provided listing states that candidates with any Bachelor's or Master's degree may be eligible, with opportunities across Noida, Hyderabad, Chennai, Bangalore, and Pune. Verify the exact role, eligibility, and compensation on the official careers page.",
+  "responsibilities": [
+    "Support assigned Generative AI and analyst-related tasks.",
+    "Collaborate with team members on project activities.",
+    "Learn relevant tools, processes, and technologies.",
+    "Follow company quality and security guidelines."
+  ],
+  "qualifications": [
+    "Any Bachelor's or Master's degree, as stated in the supplied listing.",
+    "Freshers and candidates with 0-3 years of experience, subject to the specific role requirements.",
+    "Check the official posting for detailed eligibility criteria."
+  ],
+  "link": "https://careers.hcltech.com/job/Analyst-%28Support-%26-Operations%29/166721-en_US/"
+}
   {
     "id": 3,
     "company": "Infosys",
