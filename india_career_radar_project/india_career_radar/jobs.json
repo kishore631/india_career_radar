@@ -50,79 +50,156 @@
   ],
   "link": "https://careers.hcltech.com/job/Analyst-%28Support-%26-Operations%29/166721-en_US/"
 }
-  {
+   {
     "id": 3,
-    "company": "Infosys",
-    "initials": "IN",
-    "role": "Systems Engineer",
+    "company": "Accenture",
+    "initials": "A",
+    "role": "Custom Software Engineering Associate",
     "location": "Bengaluru",
     "state": "Karnataka",
     "category": "Software & IT",
     "type": "Full-time",
-    "experience": "Fresher",
-    "salary": "As listed by employer",
-    "posted": "23 Oct 2026",
-    "description": "Sample entry-level software and IT services role. Verify the current vacancy on the official site.",
+    "experience": "Fresher / 0-2 years",
+    "salary": "₹3.2–6.6 LPA",
+    "posted": "25 Oct 2026",
+    "description": "Accenture hiring for Custom Software Engineering Associate. The supplied listing states that candidates with any graduate degree and 0-2 years of experience may be eligible. Verify the exact requirements on the official careers page.",
     "responsibilities": [
-      "Assist with development and testing.",
-      "Investigate technical issues.",
-      "Document work."
+      "Support software engineering and application development activities.",
+      "Collaborate with team members on assigned project tasks.",
+      "Assist with testing, troubleshooting, and documentation."
     ],
     "qualifications": [
-      "Meet role-specific criteria.",
-      "Technical fundamentals.",
-      "Verify live listing."
+      "Any graduate degree, as stated in the supplied listing.",
+      "Freshers and candidates with 0-2 years of experience.",
+      "Check the official posting for complete eligibility requirements."
     ],
-    "link": "https://www.infosys.com/careers/"
+    "link": "https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-5349571-S1958852_en&title=Custom+Software+Engineer"
   },
   {
     "id": 4,
-    "company": "Wipro",
-    "initials": "W",
-    "role": "Project Engineer",
-    "location": "Hyderabad",
-    "state": "Telangana",
-    "category": "Software & IT",
+    "company": "KPMG",
+    "initials": "KPMG",
+    "role": "Analyst",
+    "location": "Gurugram",
+    "state": "Haryana",
+    "category": "Finance",
     "type": "Full-time",
-    "experience": "Fresher",
-    "salary": "As listed by employer",
-    "posted": "22 Oct 2026",
-    "description": "Sample entry-level engineering listing. Details are illustrative; check the employer site.",
+    "experience": "Fresher / 0-2 years",
+    "salary": "Not disclosed",
+    "posted": "25 Oct 2026",
+    "description": "KPMG analyst opportunity for eligible graduates. The supplied listing mentions BA, B.Com, B.Ed, BE, and BCA degrees, batches 2024-2027, and working hours from 11:30 AM to 8:00 PM.",
     "responsibilities": [
-      "Assist project teams.",
-      "Learn tools and processes.",
-      "Deliver assigned tasks."
+      "Support analyst-related tasks and business processes.",
+      "Prepare and maintain relevant documentation.",
+      "Collaborate with team members to complete assigned work."
     ],
     "qualifications": [
-      "Meet current eligibility criteria.",
-      "Communication skills.",
-      "Verify official notice."
+      "BA, B.Com, B.Ed, BE, or BCA, according to the supplied listing.",
+      "Experience: 0-2 years.",
+      "Verify graduation-year and other eligibility requirements on the application page."
     ],
-    "link": "https://careers.wipro.com/"
+    "link": "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/30050866/"
   },
   {
     "id": 5,
-    "company": "Microsoft",
-    "initials": "M",
-    "role": "Software Engineering Intern",
-    "location": "Bengaluru",
-    "state": "Karnataka",
-    "category": "Internship",
-    "type": "Internship",
-    "experience": "Student / Fresher",
-    "salary": "As listed by employer",
-    "posted": "21 Oct 2026",
-    "description": "Example internship listing. Openings and eligibility vary by team.",
+    "company": "L&T",
+    "initials": "L&T",
+    "role": "GenAI Trainee",
+    "location": "Pan India",
+    "state": "India",
+    "category": "Data & AI",
+    "type": "Traineeship",
+    "experience": "0-2 years",
+    "salary": "Not disclosed",
+    "posted": "25 Oct 2026",
+    "description": "L&T GenAI Trainee opportunity. The supplied listing mentions BE, ME, BTech, and MTech qualifications, batches 2024-2027, and locations across India.",
     "responsibilities": [
-      "Build software with a mentor.",
-      "Write and test code.",
-      "Collaborate with engineers."
+      "Learn and support assigned Generative AI project activities.",
+      "Collaborate with technical teams on project tasks.",
+      "Develop relevant technical knowledge and skills."
     ],
     "qualifications": [
-      "Enrollment criteria may apply.",
-      "Programming fundamentals.",
-      "Check official internship details."
+      "BE, ME, BTech, or MTech, according to the supplied listing.",
+      "Batches 2024, 2025, 2026, and 2027.",
+      "Experience: 0-2 years.",
+      "Confirm the official eligibility criteria before applying."
     ],
-    "link": "https://careers.microsoft.com/"
+    "link": "https://larsentoubrocareers.peoplestrong.com/job/detail/LNT_GT_1820286?Source=Linkedin"
+  },
+  {
+    "id": 6,
+    "company": "Razorpay",
+    "initials": "R",
+    "role": "Data Analyst, Business Finance",
+    "location": "Bengaluru",
+    "state": "Karnataka",
+    "category": "Data & AI",
+    "type": "Full-time",
+    "experience": "Fresher / 0-2 years",
+    "salary": "₹5–9 LPA",
+    "posted": "25 Oct 2026",
+    "description": "Razorpay hiring listing for Data Analyst, Business Finance. The supplied information mentions a bachelor's degree, batches 2024-2027, and 0-2 years of experience.",
+    "responsibilities": [
+      "Support business finance reporting and data analysis.",
+      "Organize data and prepare analytical reports.",
+      "Collaborate with stakeholders on business insights."
+    ],
+    "qualifications": [
+      "Bachelor's degree, according to the supplied listing.",
+      "Batches 2024, 2025, 2026, and 2027.",
+      "Experience: 0-2 years.",
+      "Verify salary and eligibility on the official application page."
+    ],
+    "link": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4744129005"
+  },
+  {
+    "id": 7,
+    "company": "Infosys",
+    "initials": "IN",
+    "role": "Systems Engineer",
+    "location": "Pan India",
+    "state": "India",
+    "category": "Software & IT",
+    "type": "Full-time",
+    "experience": "Fresher",
+    "salary": "₹4–21 LPA across listed roles; verify role-specific package",
+    "posted": "25 Oct 2026",
+    "description": "Infosys Systems Engineer opportunity for eligible graduates. The supplied listing references batches 2024-2027 and multiple locations across India. Confirm the specific role's package and eligibility on the application page.",
+    "responsibilities": [
+      "Assist with software development and testing tasks.",
+      "Collaborate with project teams on technical assignments.",
+      "Document work and help troubleshoot application issues."
+    ],
+    "qualifications": [
+      "Graduation eligibility depends on the official hiring notice.",
+      "Batch eligibility may include 2024, 2025, 2026, and 2027.",
+      "Check the official application for deadlines and requirements."
+    ],
+    "link": "https://surveys.infosysapps.com/r/a/SEcampusregistration2027batch"
+  },
+  {
+    "id": 8,
+    "company": "Infosys",
+    "initials": "IN",
+    "role": "Specialist Programmer Trainee",
+    "location": "Multiple locations",
+    "state": "India",
+    "category": "Software & IT",
+    "type": "Full-time",
+    "experience": "Fresher / 0-2 years",
+    "salary": "Role-dependent; verify official listing",
+    "posted": "25 Oct 2026",
+    "description": "Infosys Specialist Programmer Trainee opportunity referenced in the supplied listing. Eligibility, compensation, batches, and location depend on the specific vacancy.",
+    "responsibilities": [
+      "Develop and test software solutions.",
+      "Solve programming and technical problems.",
+      "Collaborate with development teams on assigned projects."
+    ],
+    "qualifications": [
+      "Meet the degree and technical requirements in the specific listing.",
+      "Experience: 0-2 years, as stated in the supplied information.",
+      "Verify the current vacancy and application details."
+    ],
+    "link": "https://www.naukri.com/job-listings-specialist-programmer-trainee-infosys-hyderabad-bengaluru-delhi-ncr-0-to-2-years-151026016759"
   }
 ]
